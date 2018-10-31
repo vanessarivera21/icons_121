@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788 759">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e29141;
+      }
+
+      .cls-2 {
+        fill: #1048b2;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-172 -155)">
+    <path id="Subtraction_1" data-name="Subtraction 1" class="cls-1" d="M840,206H112.56a154.552,154.552,0,0,1,12.934-42.04,189.382,189.382,0,0,1,24.677-38.914,247.274,247.274,0,0,1,35.2-35.024,321.709,321.709,0,0,1,44.491-30.37A402.6,402.6,0,0,1,282.42,34.7a478.674,478.674,0,0,1,59.407-18.769A540.859,540.859,0,0,1,406.855,4.11a588.358,588.358,0,0,1,138.85,0,540.864,540.864,0,0,1,65.028,11.822A478.681,478.681,0,0,1,670.14,34.7,402.6,402.6,0,0,1,722.7,59.652a321.7,321.7,0,0,1,44.491,30.37,247.271,247.271,0,0,1,35.2,35.024,189.386,189.386,0,0,1,24.677,38.914A154.557,154.557,0,0,1,840,206Z" transform="translate(84 155)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-2" width="777" height="111" rx="55.5" transform="translate(172 387)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-2" width="777" height="111" rx="55.5" transform="translate(172 591)"/>
+    <path id="Rectangle_4" data-name="Rectangle 4" class="cls-1" d="M10,0H718a10,10,0,0,1,10,10V36A150,150,0,0,1,578,186H150A150,150,0,0,1,0,36V10A10,10,0,0,1,10,0Z" transform="translate(187 728)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-1" width="780" height="41" transform="translate(180 524)"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-3" transform="translate(463 254)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-3" transform="translate(520 280)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-3" transform="translate(605 269)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-3" transform="translate(605 227)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-3" transform="translate(520 233)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" class="cls-3" transform="translate(444 212)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" class="cls-3" transform="translate(412 280)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" class="cls-3" transform="translate(358 254)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_10" data-name="Ellipse 10" class="cls-3" transform="translate(683 248)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_11" data-name="Ellipse 11" class="cls-3" transform="translate(641 202)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_12" data-name="Ellipse 12" class="cls-3" transform="translate(551 191)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_13" data-name="Ellipse 13" class="cls-3" transform="translate(733 258)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_14" data-name="Ellipse 14" class="cls-3" transform="translate(693 214)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+    <g id="Ellipse_15" data-name="Ellipse 15" class="cls-3" transform="translate(664 280)">
+      <ellipse class="cls-4" cx="9.5" cy="10.5" rx="9.5" ry="10.5"/>
+      <ellipse class="cls-5" cx="9.5" cy="10.5" rx="9" ry="10"/>
+    </g>
+  </g>
+</svg>

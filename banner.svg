@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1355.638 251.882">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #860e0e;
+      }
+
+      .cls-2 {
+        fill: #0e0983;
+      }
+
+      .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-71 -134.518)">
+    <g id="Group_2" data-name="Group 2" transform="translate(84.984 134.518)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="redflag" class="cls-1" d="M0,234.136,83.166,0l82.927,234.054Z" transform="matrix(-1, -0.017, 0.017, -1, 181.334, 246.294)"/>
+        <path id="blueflag" class="cls-2" d="M166.094,240.213H0L83.047,0l83.048,240.213h0Z" transform="translate(667.645 240.213) rotate(180)"/>
+        <path id="redflag2" class="cls-1" d="M166.094,230.5H0L83.047,0l83.048,230.5h0Z" transform="translate(499.121 251.882) rotate(180)"/>
+        <path id="blueflag2" class="cls-2" d="M166.094,200.065H0L83.047,0l83.048,200.065h0Z" transform="translate(343.698 221.446) rotate(180)"/>
+        <g id="banner" class="cls-3" transform="translate(0 0.24)">
+          <rect class="cls-4" width="676.654" height="21.381" rx="10.69"/>
+          <rect class="cls-5" x="0.5" y="0.5" width="675.654" height="20.381" rx="10.19"/>
+        </g>
+      </g>
+      <path id="redflag-2" data-name="redflag" class="cls-1" d="M0,234.136,83.166,0l82.927,234.054Z" transform="matrix(-1, -0.017, 0.017, -1, 181.334, 246.294)"/>
+      <path id="blueflag-2" data-name="blueflag" class="cls-2" d="M166.094,240.213H0L83.047,0l83.048,240.213h0Z" transform="translate(667.645 240.213) rotate(180)"/>
+      <path id="redflag2-2" data-name="redflag2" class="cls-1" d="M166.094,230.5H0L83.047,0l83.048,230.5h0Z" transform="translate(499.121 251.882) rotate(180)"/>
+      <path id="blueflag2-2" data-name="blueflag2" class="cls-2" d="M166.094,200.065H0L83.047,0l83.048,200.065h0Z" transform="translate(343.698 221.446) rotate(180)"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(724.347 134.518)">
+      <g id="Group_1-2" data-name="Group 1">
+        <path id="redflag-3" data-name="redflag" class="cls-1" d="M0,234.136,83.166,0l82.927,234.054Z" transform="matrix(-1, -0.017, 0.017, -1, 181.334, 246.294)"/>
+        <path id="blueflag-3" data-name="blueflag" class="cls-2" d="M166.094,240.213H0L83.047,0l83.048,240.213h0Z" transform="translate(667.645 240.213) rotate(180)"/>
+        <path id="redflag2-3" data-name="redflag2" class="cls-1" d="M166.094,230.5H0L83.047,0l83.048,230.5h0Z" transform="translate(499.121 251.882) rotate(180)"/>
+        <path id="blueflag2-3" data-name="blueflag2" class="cls-2" d="M166.094,200.065H0L83.047,0l83.048,200.065h0Z" transform="translate(343.698 221.446) rotate(180)"/>
+        <g id="banner-2" data-name="banner" class="cls-3" transform="translate(0 0.24)">
+          <rect class="cls-4" width="676.654" height="21.381" rx="10.69"/>
+          <rect class="cls-5" x="0.5" y="0.5" width="675.654" height="20.381" rx="10.19"/>
+        </g>
+      </g>
+      <path id="redflag-4" data-name="redflag" class="cls-1" d="M0,234.136,83.166,0l82.927,234.054Z" transform="matrix(-1, -0.017, 0.017, -1, 181.334, 246.294)"/>
+      <path id="blueflag-4" data-name="blueflag" class="cls-2" d="M166.094,240.213H0L83.047,0l83.048,240.213h0Z" transform="translate(667.645 240.213) rotate(180)"/>
+      <path id="redflag2-4" data-name="redflag2" class="cls-1" d="M166.094,230.5H0L83.047,0l83.048,230.5h0Z" transform="translate(499.121 251.882) rotate(180)"/>
+      <path id="blueflag2-4" data-name="blueflag2" class="cls-2" d="M166.094,200.065H0L83.047,0l83.048,200.065h0Z" transform="translate(343.698 221.446) rotate(180)"/>
+    </g>
+    <g id="banner-3" data-name="banner" class="cls-3" transform="translate(71 134.757)">
+      <rect class="cls-4" width="1355.638" height="34.467" rx="17.234"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="1354.638" height="33.467" rx="16.734"/>
+    </g>
+  </g>
+</svg>

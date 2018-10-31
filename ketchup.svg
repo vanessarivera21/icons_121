@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 442 866.318">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bf5a04;
+      }
+
+      .cls-2 {
+        fill: #b1120b;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-168 -41.682)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-8 128)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="204" height="562" transform="translate(176 218)"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="137" height="61" transform="translate(210 173)"/>
+      <path id="Subtraction_1" data-name="Subtraction 1" class="cls-1" d="M235.375,159.318H146.513L192.495,0l42.88,159.318Z" transform="translate(87 44.682)"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(-350 -58)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-2" width="204" height="562" transform="translate(756 259)"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="137" height="61" transform="translate(790 218)"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" class="cls-2" d="M235.375,159.318H146.513L192.495,0l42.88,159.318Z" transform="translate(667 99.682)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 752.483 305.526">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a83f08;
+      }
+
+      .cls-2 {
+        fill: #d8b056;
+      }
+
+      .cls-3 {
+        fill: #e6c63e;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-94 -107.539)">
+    <rect id="hotdog" class="cls-1" width="752.483" height="186.304" rx="93.152" transform="translate(94 133.609)"/>
+    <rect id="bun" class="cls-2" width="620.353" height="186.304" rx="93.152" transform="translate(149.495 226.761)"/>
+    <path id="musturd" class="cls-3" d="M421.917,175.917s74.277-87.162,135.83-55.871,141.653,0,141.653,0,70.707,52.821,112.49,19.917,98.8,0,98.8,0,140.532,72.683,128.877,22.395-75.46-42.311-75.46-42.311S828.588,67.639,811.89,95.337,677.907,69.173,677.907,69.173,569.215,128.467,516.888,82.21s-113.67,57.753-113.67,57.753l-24.492,35.955Z" transform="translate(-238.999 38.366)"/>
+  </g>
+</svg>

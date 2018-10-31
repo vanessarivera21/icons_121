@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 549.769 472.385">
+  <defs>
+    <style>
+      .cls-1, .cls-8 {
+        fill: #2c4895;
+      }
+
+      .cls-1, .cls-6, .cls-7 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #950a0a;
+      }
+
+      .cls-3 {
+        fill: #3caeea;
+      }
+
+      .cls-4 {
+        fill: #f5e24f;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #8b5447;
+      }
+
+      .cls-7 {
+        fill: #f2dcbd;
+      }
+
+      .cls-11, .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+
+      .cls-11 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-129 -79.865)">
+    <g id="Rectangle_12" data-name="Rectangle 12" class="cls-1" transform="translate(148.392 309.091)">
+      <rect class="cls-9" width="506.137" height="234.161"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="505.137" height="233.161"/>
+    </g>
+    <g id="Subtraction_1" data-name="Subtraction 1" class="cls-2" transform="translate(152.95 324.307)">
+      <path class="cls-9" d="M 155.9643096923828 203.4356842041016 L 0.7096889019012451 203.4356842041016 L 72.92190551757812 1.394510507583618 L 155.9643096923828 203.4356842041016 Z"/>
+      <path class="cls-11" d="M 155.2182159423828 202.9356842041016 L 72.9544677734375 2.788947820663452 L 1.419350862503052 202.9356842041016 L 155.2182159423828 202.9356842041016 M 156.7104187011719 203.9356842041016 L -8.805124707578216e-06 203.9356842041016 L 72.88933563232422 -7.632606866536662e-06 L 156.7104187011719 203.9356842041016 Z"/>
+    </g>
+    <g id="Subtraction_2" data-name="Subtraction 2" class="cls-2" transform="translate(488.92 324.307)">
+      <path class="cls-9" d="M 155.9643096923828 203.4356842041016 L 0.7096889019012451 203.4356842041016 L 72.92190551757812 1.394510507583618 L 155.9643096923828 203.4356842041016 Z"/>
+      <path class="cls-11" d="M 155.2182159423828 202.9356842041016 L 72.9544677734375 2.788947820663452 L 1.419350862503052 202.9356842041016 L 155.2182159423828 202.9356842041016 M 156.7104187011719 203.9356842041016 L -8.805124707578216e-06 203.9356842041016 L 72.88933563232422 -7.632606866536662e-06 L 156.7104187011719 203.9356842041016 Z"/>
+    </g>
+    <g id="Subtraction_3" data-name="Subtraction 3" class="cls-3" transform="translate(323.117 324.307)">
+      <path class="cls-9" d="M 155.9643096923828 203.4356842041016 L 0.7096889019012451 203.4356842041016 L 72.92190551757812 1.394510507583618 L 155.9643096923828 203.4356842041016 Z"/>
+      <path class="cls-11" d="M 155.2182159423828 202.9356842041016 L 72.9544677734375 2.788947820663452 L 1.419350862503052 202.9356842041016 L 155.2182159423828 202.9356842041016 M 156.7104187011719 203.9356842041016 L -8.805124707578216e-06 203.9356842041016 L 72.88933563232422 -7.632606866536662e-06 L 156.7104187011719 203.9356842041016 Z"/>
+    </g>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-4" width="545.406" height="31.512" transform="translate(133.363 292.88)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-5" width="8.726" height="203.618" transform="translate(654.56 324.392)"/>
+    <g id="Group_1" data-name="Group 1" transform="matrix(-0.545, 0.839, -0.839, -0.545, 554.451, 251.736)">
+      <g id="Rectangle_9" data-name="Rectangle 9" class="cls-6" transform="translate(9.311 37.245)">
+        <rect class="cls-9" width="11.972" height="279.338"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="10.972" height="278.338"/>
+      </g>
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-7" transform="translate(0 0)">
+        <ellipse class="cls-9" cx="15.63" cy="24.941" rx="15.63" ry="24.941"/>
+        <ellipse class="cls-10" cx="15.63" cy="24.941" rx="15.13" ry="24.441"/>
+      </g>
+    </g>
+    <path id="Subtraction_4" data-name="Subtraction 4" class="cls-8" d="M156.71,203.936H0L72.889,0Z" transform="translate(558.365 528.243) rotate(180)"/>
+    <path id="Subtraction_5" data-name="Subtraction 5" class="cls-8" d="M156.71,203.936H0L72.889,0Z" transform="translate(388.199 528.243) rotate(180)"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-4" width="545.406" height="31.512" transform="translate(129 520.738)"/>
+    <g id="Group_2" data-name="Group 2" transform="matrix(-0.602, -0.799, 0.799, -0.602, 267.284, 292.666)">
+      <g id="Rectangle_9-2" data-name="Rectangle 9" class="cls-6" transform="translate(9.548 38.193)">
+        <rect class="cls-9" width="12.276" height="286.444"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="11.276" height="285.444"/>
+      </g>
+      <g id="Ellipse_1-2" data-name="Ellipse 1" class="cls-7" transform="translate(0 0)">
+        <ellipse class="cls-9" cx="16.027" cy="25.575" rx="16.027" ry="25.575"/>
+        <ellipse class="cls-10" cx="16.027" cy="25.575" rx="15.527" ry="25.075"/>
+      </g>
+    </g>
+  </g>
+</svg>

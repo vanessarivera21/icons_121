@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 631.734 542.531">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0c245;
+      }
+
+      .cls-2 {
+        fill: #ef8442;
+      }
+
+      .cls-3 {
+        fill: #4b2702;
+      }
+
+      .cls-4 {
+        fill: #a71b1b;
+      }
+
+      .cls-5 {
+        fill: #7595de;
+      }
+    </style>
+  </defs>
+  <g id="cupcake" transform="translate(-139 -41)">
+    <g id="cupcakebottom">
+      <path id="Subtraction_1" data-name="Subtraction 1" class="cls-1" d="M365.085,243.853H80.8L0,0H439.908L365.085,243.853Z" transform="translate(234.204 339.319)"/>
+      <path id="stripes" class="cls-2" d="M223.008,244.212V0h13.161V244.212Zm-44.6,0V0h13.161V244.212Zm-44.6,0V0h13.161V244.212Zm-44.6,0V0h13.161V244.212Zm-44.6,0V0H57.763V244.212Zm-44.6,0V0H13.161V244.212Z" transform="translate(336.417 339.319)"/>
+    </g>
+    <path id="icing" class="cls-3" d="M76.042,285.889a76.042,76.042,0,0,1-1.372-152.072A88.184,88.184,0,0,1,179.788,35.44,88.123,88.123,0,0,1,303.8,18,88.127,88.127,0,0,1,430.117,38.667,88.168,88.168,0,0,1,547.649,121.74a88.9,88.9,0,0,1-.819,12.065h8.862a76.042,76.042,0,0,1,0,152.084Z" transform="translate(139 41)"/>
+    <g id="sprinkles">
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-4" width="14.623" height="51.182" transform="translate(534.924 147.127) rotate(-41)"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-4" width="14.623" height="51.182" transform="translate(478.559 139.818) rotate(-31)"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-4" width="14.623" height="51.182" transform="matrix(0.809, 0.588, -0.588, 0.809, 444.983, 132.986)"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-4" width="14.623" height="51.182" transform="translate(328.8 121.022) rotate(-47)"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-5" width="14.623" height="51.182" transform="matrix(0.695, -0.719, 0.719, 0.695, 474.519, 93.557)"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" class="cls-5" width="14.623" height="51.182" transform="matrix(0.94, -0.342, 0.342, 0.94, 377.825, 185.43)"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-5" width="14.623" height="51.182" transform="matrix(0.809, 0.588, -0.588, 0.809, 423.779, 85.46)"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-5" width="14.623" height="51.182" transform="translate(465.177 163.076) rotate(24)"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-5" width="14.623" height="51.182" transform="translate(312.714 166.355) rotate(-47)"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-5" width="14.623" height="51.182" transform="matrix(1, 0.017, -0.017, 1, 524.045, 175.412)"/>
+    </g>
+  </g>
+</svg>
